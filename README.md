@@ -23,7 +23,7 @@ docker run -d -p 3000:3000 --name anatoli anatoli
 Voir les conteneurs en fonctionnement:
 ```bash
 docker ps
-
+```
 
 
 # Do it yourself
